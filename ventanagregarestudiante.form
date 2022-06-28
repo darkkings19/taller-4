@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="ventanagregarestudiante">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="453" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="31d33" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Rut"/>
+        </properties>
+      </component>
+      <component id="94237" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="ceca6" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Estudiante"/>
+        </properties>
+      </component>
+      <component id="b27a8" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="ec1c1" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <text value="Email"/>
+        </properties>
+      </component>
+      <component id="eafc6" class="javax.swing.JTextField" binding="textField3" default-binding="true">
+        <constraints/>
+        <properties/>
+      </component>
+      <component id="94e67" class="javax.swing.JButton" binding="agregarButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Agregar"/>
+        </properties>
+      </component>
+      <component id="cb8d5" class="javax.swing.JButton" binding="cancelarButton" default-binding="true">
+        <constraints/>
+        <properties>
+          <text value="Cancelar"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
